@@ -28,7 +28,7 @@ Una **herramienta profesional web** para evaluación, predicción y manejo de ac
 ### Opción 1: Web (Recomendado)
 Simplemente abre en tu navegador:
 ```
-https://[usuario].github.io/pas-calculator
+https://dresnarbona.github.io/pas-calculator
 ```
 
 ### Opción 2: Descarga Local
